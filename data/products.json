@@ -7,5 +7,23 @@
     "image": "images/cozy-blanket.jpg",
     "link": "https://amzn.to/deinlink",
     "trending": true
+  },
+  {
+    "title": "Tragbare Kuscheldecke mit Kapuze",
+    "description": "Super weich und perfekt für gemütliche Abende.",
+    "price": "39,99 €",
+    "category": "Cozy",
+    "image": "images/cozy-blanket.jpg",
+    "link": "https://amzn.to/deinlink",
+    "trending": true
+  },
+  {
+    "title": "Tragbare Kuscheldecke mit Kapuze",
+    "description": "Super weich und perfekt für gemütliche Abende.",
+    "price": "39,99 €",
+    "category": "Cozy",
+    "image": "images/cozy-blanket.jpg",
+    "link": "https://amzn.to/deinlink",
+    "trending": true
   }
 ]
